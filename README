@@ -1,0 +1,34 @@
+# Anghami Like Button Clicker
+
+This JavaScript script automates the clicking of the "like" button associated with specific Anghami icons on a webpage.
+
+## Overview
+
+This repository contains a JavaScript script designed to interact with Anghami's web interface by triggering click events on designated elements.
+
+## Prerequisites
+
+- Modern web browser (tested on [Browser Name and Version])
+- Active Anghami page loaded in the browser containing the targeted elements
+
+## Usage
+
+1. Open a web browser and navigate to the Anghami page where you want to simulate "like" button clicks.
+
+2. Access the developer console:
+   - **Chrome**: Press `Ctrl+Shift+J` (Windows/Linux) or `Cmd+Option+J` (Mac).
+   - **Firefox**: Press `Ctrl+Shift+K` (Windows/Linux) or `Cmd+Option+K` (Mac).
+   - **Edge**: Press `Ctrl+Shift+I` (Windows/Linux) or `Cmd+Option+I` (Mac).
+
+3. Copy the JavaScript code provided in this repository.
+
+4. Paste the code into the developer console.
+
+5. Press `Enter` to execute the code. The script will simulate clicks on the specified Anghami icons.
+
+6. Observe the "like" button clicks being triggered on the targeted Anghami icons.
+
+## Example
+
+Upon execution, the script will perform simulated "like" button clicks on the predefined Anghami icons.
+
